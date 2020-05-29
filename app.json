@@ -7,9 +7,9 @@
     "mirror",
     "googledrive"
   ],
-  "repository": "https://github.com/CW4RR10R/python-aria-mirror-bot",
+  "repository": "https://github.com/prono69/python-aria-mirror-bot",
   "success_url": "https://telegram.dog/LeechYourTorrentsBot",
-  "website": "https://github.com/CW4RR10R/python-aria-mirror-bot",  
+  "website": "https://github.com/prono69/python-aria-mirror-bot",  
   "env": {
     "BOT_TOKEN": {
       "description": "The telegram bot token that you get from @BotFather",
